@@ -1,0 +1,5 @@
+C:\Users\Ginevra\Documents\Metodi_di_console\02-operatori\obj\Debug\net8.0\02-operatori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ginevra\Documents\Metodi_di_console\02-operatori\obj\Debug\net8.0\02-operatori.AssemblyInfoInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\02-operatori\obj\Debug\net8.0\02-operatori.AssemblyInfo.cs
+C:\Users\Ginevra\Documents\Metodi_di_console\02-operatori\obj\Debug\net8.0\02-operatori.csproj.CoreCompileInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\02-operatori\obj\Debug\net8.0\02-operatori.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\Ginevra\Documents\Metodi_di_console\04-Assignment\bin\Debug\net8.0\04-Assignment.exe
+C:\Users\Ginevra\Documents\Metodi_di_console\04-Assignment\bin\Debug\net8.0\04-Assignment.deps.json
+C:\Users\Ginevra\Documents\Metodi_di_console\04-Assignment\bin\Debug\net8.0\04-Assignment.runtimeconfig.json
+C:\Users\Ginevra\Documents\Metodi_di_console\04-Assignment\bin\Debug\net8.0\04-Assignment.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\04-Assignment\bin\Debug\net8.0\04-Assignment.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\04-Assignment\obj\Debug\net8.0\04-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ginevra\Documents\Metodi_di_console\04-Assignment\obj\Debug\net8.0\04-Assignment.AssemblyInfoInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\04-Assignment\obj\Debug\net8.0\04-Assignment.AssemblyInfo.cs
+C:\Users\Ginevra\Documents\Metodi_di_console\04-Assignment\obj\Debug\net8.0\04-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\04-Assignment\obj\Debug\net8.0\04-Assignment.sourcelink.json
+C:\Users\Ginevra\Documents\Metodi_di_console\04-Assignment\obj\Debug\net8.0\04-Assignment.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\04-Assignment\obj\Debug\net8.0\refint\04-Assignment.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\04-Assignment\obj\Debug\net8.0\04-Assignment.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\04-Assignment\obj\Debug\net8.0\04-Assignment.genruntimeconfig.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\04-Assignment\obj\Debug\net8.0\ref\04-Assignment.dll

@@ -1,0 +1,15 @@
+C:\Users\Ginevra\Documents\Metodi_di_console\05-le-condizioni\bin\Debug\net8.0\05-le-condizioni.exe
+C:\Users\Ginevra\Documents\Metodi_di_console\05-le-condizioni\bin\Debug\net8.0\05-le-condizioni.deps.json
+C:\Users\Ginevra\Documents\Metodi_di_console\05-le-condizioni\bin\Debug\net8.0\05-le-condizioni.runtimeconfig.json
+C:\Users\Ginevra\Documents\Metodi_di_console\05-le-condizioni\bin\Debug\net8.0\05-le-condizioni.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\05-le-condizioni\bin\Debug\net8.0\05-le-condizioni.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\05-le-condizioni\obj\Debug\net8.0\05-le-condizioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ginevra\Documents\Metodi_di_console\05-le-condizioni\obj\Debug\net8.0\05-le-condizioni.AssemblyInfoInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\05-le-condizioni\obj\Debug\net8.0\05-le-condizioni.AssemblyInfo.cs
+C:\Users\Ginevra\Documents\Metodi_di_console\05-le-condizioni\obj\Debug\net8.0\05-le-condizioni.csproj.CoreCompileInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\05-le-condizioni\obj\Debug\net8.0\05-le-condizioni.sourcelink.json
+C:\Users\Ginevra\Documents\Metodi_di_console\05-le-condizioni\obj\Debug\net8.0\05-le-condizioni.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\05-le-condizioni\obj\Debug\net8.0\refint\05-le-condizioni.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\05-le-condizioni\obj\Debug\net8.0\05-le-condizioni.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\05-le-condizioni\obj\Debug\net8.0\05-le-condizioni.genruntimeconfig.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\05-le-condizioni\obj\Debug\net8.0\ref\05-le-condizioni.dll
