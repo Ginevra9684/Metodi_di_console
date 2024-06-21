@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05-le-condizioni")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faf6cecf617c59c87d88099e92cd6a1b4347c3f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93df48ba5ec5f7c1476c83f68b175354a15cea0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("05-le-condizioni")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05-le-condizioni")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
