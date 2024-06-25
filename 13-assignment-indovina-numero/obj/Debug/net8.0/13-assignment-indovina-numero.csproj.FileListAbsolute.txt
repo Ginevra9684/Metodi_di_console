@@ -1,0 +1,15 @@
+C:\Users\Ginevra\Documents\Metodi_di_console\13-assignment-indovina-numero\bin\Debug\net8.0\13-assignment-indovina-numero.exe
+C:\Users\Ginevra\Documents\Metodi_di_console\13-assignment-indovina-numero\bin\Debug\net8.0\13-assignment-indovina-numero.deps.json
+C:\Users\Ginevra\Documents\Metodi_di_console\13-assignment-indovina-numero\bin\Debug\net8.0\13-assignment-indovina-numero.runtimeconfig.json
+C:\Users\Ginevra\Documents\Metodi_di_console\13-assignment-indovina-numero\bin\Debug\net8.0\13-assignment-indovina-numero.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\13-assignment-indovina-numero\bin\Debug\net8.0\13-assignment-indovina-numero.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\13-assignment-indovina-numero\obj\Debug\net8.0\13-assignment-indovina-numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ginevra\Documents\Metodi_di_console\13-assignment-indovina-numero\obj\Debug\net8.0\13-assignment-indovina-numero.AssemblyInfoInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\13-assignment-indovina-numero\obj\Debug\net8.0\13-assignment-indovina-numero.AssemblyInfo.cs
+C:\Users\Ginevra\Documents\Metodi_di_console\13-assignment-indovina-numero\obj\Debug\net8.0\13-assignment-indovina-numero.csproj.CoreCompileInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\13-assignment-indovina-numero\obj\Debug\net8.0\13-assignment-indovina-numero.sourcelink.json
+C:\Users\Ginevra\Documents\Metodi_di_console\13-assignment-indovina-numero\obj\Debug\net8.0\13-assignment-indovina-numero.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\13-assignment-indovina-numero\obj\Debug\net8.0\refint\13-assignment-indovina-numero.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\13-assignment-indovina-numero\obj\Debug\net8.0\13-assignment-indovina-numero.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\13-assignment-indovina-numero\obj\Debug\net8.0\13-assignment-indovina-numero.genruntimeconfig.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\13-assignment-indovina-numero\obj\Debug\net8.0\ref\13-assignment-indovina-numero.dll
