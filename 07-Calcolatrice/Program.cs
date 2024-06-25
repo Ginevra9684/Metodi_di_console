@@ -4,17 +4,14 @@ a è un numero
 b è un operatore
 c è un numero
 */
-int minuendo = Convert.ToInt32(Console.ReadLine())!;
-
-Convert.ToInt32(minuendo);
-
+/*
 Console.Write("Inserire il minuendo \t");
 
-Convert.ToInt32(Console.ReadLine());
+int minuendo = Convert.ToInt32(Console.ReadLine())!;
 
-int operatore = Convert.ToInt32(Console.ReadLine())!;
+Console.Write("Inserire l'operatore \t");
 
-Convert.ToInt32(operatore);
+string operatore = Console.ReadLine()!;
 
 switch (operatore)
 {
@@ -32,16 +29,42 @@ switch (operatore)
         break;
 }
 
-Console.Write("Inserire l'operatore \t");
-
-Convert.ToInt32(Console.ReadLine())!;
+Console.Write("Inserire il sottraendo \t");
 
 int sottraendo = Convert.ToInt32(Console.ReadLine())!;
 
-Convert.ToInt32(sottraendo);
-
-Console.Write("Inserire il sottraendo \t");
-
-Convert.ToInt32(Console.ReadLine())!;
-
 Console.Write($"L'operazione è: {minuendo} {operatore} {sottraendo}");
+
+*/
+            // prompt di scelta dell'operazione
+
+Console.Write("Inserire il primo operatore \t");
+
+double primoOperatore = Convert.ToDouble(Console.ReadLine())!;
+
+Console.Write("Inserire il secondo operatore \t");
+
+double secondoOperatore = Convert.ToDouble(Console.ReadLine())!;
+
+            // acquisizione della scelta dell'utente
+
+Console.Write("Inserire l'operatore \t");
+
+string operatore = Console.ReadLine()!;
+
+switch (operatore)
+{
+    case "+":
+        double somma 
+        Console.WriteLine("");
+        break;                                          
+    case -:
+        Console.WriteLine("-");
+        break;
+    case *:
+        Console.WriteLine("*");
+        break;
+    case /:
+        Console.WriteLine("/");
+        break;
+}

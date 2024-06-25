@@ -3,3 +3,13 @@ C:\Users\Ginevra\Documents\Metodi_di_console\07-Calcolatrice\obj\Debug\net8.0\07
 C:\Users\Ginevra\Documents\Metodi_di_console\07-Calcolatrice\obj\Debug\net8.0\07-Calcolatrice.AssemblyInfo.cs
 C:\Users\Ginevra\Documents\Metodi_di_console\07-Calcolatrice\obj\Debug\net8.0\07-Calcolatrice.csproj.CoreCompileInputs.cache
 C:\Users\Ginevra\Documents\Metodi_di_console\07-Calcolatrice\obj\Debug\net8.0\07-Calcolatrice.sourcelink.json
+C:\Users\Ginevra\Documents\Metodi_di_console\07-Calcolatrice\bin\Debug\net8.0\07-Calcolatrice.exe
+C:\Users\Ginevra\Documents\Metodi_di_console\07-Calcolatrice\bin\Debug\net8.0\07-Calcolatrice.deps.json
+C:\Users\Ginevra\Documents\Metodi_di_console\07-Calcolatrice\bin\Debug\net8.0\07-Calcolatrice.runtimeconfig.json
+C:\Users\Ginevra\Documents\Metodi_di_console\07-Calcolatrice\bin\Debug\net8.0\07-Calcolatrice.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\07-Calcolatrice\bin\Debug\net8.0\07-Calcolatrice.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\07-Calcolatrice\obj\Debug\net8.0\07-Calcolatrice.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\07-Calcolatrice\obj\Debug\net8.0\refint\07-Calcolatrice.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\07-Calcolatrice\obj\Debug\net8.0\07-Calcolatrice.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\07-Calcolatrice\obj\Debug\net8.0\07-Calcolatrice.genruntimeconfig.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\07-Calcolatrice\obj\Debug\net8.0\ref\07-Calcolatrice.dll
