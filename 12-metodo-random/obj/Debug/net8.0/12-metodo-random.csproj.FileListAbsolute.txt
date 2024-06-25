@@ -1,0 +1,15 @@
+C:\Users\Ginevra\Documents\Metodi_di_console\12-metodo-random\obj\Debug\net8.0\12-metodo-random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ginevra\Documents\Metodi_di_console\12-metodo-random\obj\Debug\net8.0\12-metodo-random.AssemblyInfoInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\12-metodo-random\obj\Debug\net8.0\12-metodo-random.AssemblyInfo.cs
+C:\Users\Ginevra\Documents\Metodi_di_console\12-metodo-random\obj\Debug\net8.0\12-metodo-random.csproj.CoreCompileInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\12-metodo-random\obj\Debug\net8.0\12-metodo-random.sourcelink.json
+C:\Users\Ginevra\Documents\Metodi_di_console\12-metodo-random\bin\Debug\net8.0\12-metodo-random.exe
+C:\Users\Ginevra\Documents\Metodi_di_console\12-metodo-random\bin\Debug\net8.0\12-metodo-random.deps.json
+C:\Users\Ginevra\Documents\Metodi_di_console\12-metodo-random\bin\Debug\net8.0\12-metodo-random.runtimeconfig.json
+C:\Users\Ginevra\Documents\Metodi_di_console\12-metodo-random\bin\Debug\net8.0\12-metodo-random.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\12-metodo-random\bin\Debug\net8.0\12-metodo-random.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\12-metodo-random\obj\Debug\net8.0\12-metodo-random.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\12-metodo-random\obj\Debug\net8.0\refint\12-metodo-random.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\12-metodo-random\obj\Debug\net8.0\12-metodo-random.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\12-metodo-random\obj\Debug\net8.0\12-metodo-random.genruntimeconfig.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\12-metodo-random\obj\Debug\net8.0\ref\12-metodo-random.dll
