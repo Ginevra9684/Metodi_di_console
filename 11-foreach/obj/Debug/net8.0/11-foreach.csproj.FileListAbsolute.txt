@@ -1,0 +1,15 @@
+C:\Users\Ginevra\Documents\Metodi_di_console\11-foreach\obj\Debug\net8.0\11-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ginevra\Documents\Metodi_di_console\11-foreach\obj\Debug\net8.0\11-foreach.AssemblyInfoInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\11-foreach\obj\Debug\net8.0\11-foreach.AssemblyInfo.cs
+C:\Users\Ginevra\Documents\Metodi_di_console\11-foreach\obj\Debug\net8.0\11-foreach.csproj.CoreCompileInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\11-foreach\obj\Debug\net8.0\11-foreach.sourcelink.json
+C:\Users\Ginevra\Documents\Metodi_di_console\11-foreach\bin\Debug\net8.0\11-foreach.exe
+C:\Users\Ginevra\Documents\Metodi_di_console\11-foreach\bin\Debug\net8.0\11-foreach.deps.json
+C:\Users\Ginevra\Documents\Metodi_di_console\11-foreach\bin\Debug\net8.0\11-foreach.runtimeconfig.json
+C:\Users\Ginevra\Documents\Metodi_di_console\11-foreach\bin\Debug\net8.0\11-foreach.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\11-foreach\bin\Debug\net8.0\11-foreach.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\11-foreach\obj\Debug\net8.0\11-foreach.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\11-foreach\obj\Debug\net8.0\refint\11-foreach.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\11-foreach\obj\Debug\net8.0\11-foreach.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\11-foreach\obj\Debug\net8.0\11-foreach.genruntimeconfig.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\11-foreach\obj\Debug\net8.0\ref\11-foreach.dll
