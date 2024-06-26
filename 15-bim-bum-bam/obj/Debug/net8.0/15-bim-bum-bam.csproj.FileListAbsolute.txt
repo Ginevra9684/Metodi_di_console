@@ -1,0 +1,15 @@
+C:\Users\Ginevra\Documents\Metodi_di_console\15-bim-bum-bam\obj\Debug\net8.0\15-bim-bum-bam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ginevra\Documents\Metodi_di_console\15-bim-bum-bam\obj\Debug\net8.0\15-bim-bum-bam.AssemblyInfoInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\15-bim-bum-bam\obj\Debug\net8.0\15-bim-bum-bam.AssemblyInfo.cs
+C:\Users\Ginevra\Documents\Metodi_di_console\15-bim-bum-bam\obj\Debug\net8.0\15-bim-bum-bam.csproj.CoreCompileInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\15-bim-bum-bam\obj\Debug\net8.0\15-bim-bum-bam.sourcelink.json
+C:\Users\Ginevra\Documents\Metodi_di_console\15-bim-bum-bam\bin\Debug\net8.0\15-bim-bum-bam.exe
+C:\Users\Ginevra\Documents\Metodi_di_console\15-bim-bum-bam\bin\Debug\net8.0\15-bim-bum-bam.deps.json
+C:\Users\Ginevra\Documents\Metodi_di_console\15-bim-bum-bam\bin\Debug\net8.0\15-bim-bum-bam.runtimeconfig.json
+C:\Users\Ginevra\Documents\Metodi_di_console\15-bim-bum-bam\bin\Debug\net8.0\15-bim-bum-bam.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\15-bim-bum-bam\bin\Debug\net8.0\15-bim-bum-bam.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\15-bim-bum-bam\obj\Debug\net8.0\15-bim-bum-bam.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\15-bim-bum-bam\obj\Debug\net8.0\refint\15-bim-bum-bam.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\15-bim-bum-bam\obj\Debug\net8.0\15-bim-bum-bam.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\15-bim-bum-bam\obj\Debug\net8.0\15-bim-bum-bam.genruntimeconfig.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\15-bim-bum-bam\obj\Debug\net8.0\ref\15-bim-bum-bam.dll

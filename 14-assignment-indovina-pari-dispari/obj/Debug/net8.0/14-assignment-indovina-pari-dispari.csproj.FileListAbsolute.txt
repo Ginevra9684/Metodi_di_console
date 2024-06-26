@@ -1,0 +1,15 @@
+C:\Users\Ginevra\Documents\Metodi_di_console\14-assignment-indovina-pari-dispari\obj\Debug\net8.0\14-assignment-indovina-pari-dispari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ginevra\Documents\Metodi_di_console\14-assignment-indovina-pari-dispari\obj\Debug\net8.0\14-assignment-indovina-pari-dispari.AssemblyInfoInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\14-assignment-indovina-pari-dispari\obj\Debug\net8.0\14-assignment-indovina-pari-dispari.AssemblyInfo.cs
+C:\Users\Ginevra\Documents\Metodi_di_console\14-assignment-indovina-pari-dispari\obj\Debug\net8.0\14-assignment-indovina-pari-dispari.csproj.CoreCompileInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\14-assignment-indovina-pari-dispari\obj\Debug\net8.0\14-assignment-indovina-pari-dispari.sourcelink.json
+C:\Users\Ginevra\Documents\Metodi_di_console\14-assignment-indovina-pari-dispari\bin\Debug\net8.0\14-assignment-indovina-pari-dispari.exe
+C:\Users\Ginevra\Documents\Metodi_di_console\14-assignment-indovina-pari-dispari\bin\Debug\net8.0\14-assignment-indovina-pari-dispari.deps.json
+C:\Users\Ginevra\Documents\Metodi_di_console\14-assignment-indovina-pari-dispari\bin\Debug\net8.0\14-assignment-indovina-pari-dispari.runtimeconfig.json
+C:\Users\Ginevra\Documents\Metodi_di_console\14-assignment-indovina-pari-dispari\bin\Debug\net8.0\14-assignment-indovina-pari-dispari.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\14-assignment-indovina-pari-dispari\bin\Debug\net8.0\14-assignment-indovina-pari-dispari.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\14-assignment-indovina-pari-dispari\obj\Debug\net8.0\14-assignment-indovina-pari-dispari.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\14-assignment-indovina-pari-dispari\obj\Debug\net8.0\refint\14-assignment-indovina-pari-dispari.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\14-assignment-indovina-pari-dispari\obj\Debug\net8.0\14-assignment-indovina-pari-dispari.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\14-assignment-indovina-pari-dispari\obj\Debug\net8.0\14-assignment-indovina-pari-dispari.genruntimeconfig.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\14-assignment-indovina-pari-dispari\obj\Debug\net8.0\ref\14-assignment-indovina-pari-dispari.dll

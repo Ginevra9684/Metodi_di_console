@@ -18,11 +18,11 @@ esempio di _italic_
 
 ## esempio di check
 - [ ] uno
-- [ ] due
+- [x] due
 
 backtick
 
-`(alt 96)
+` (alt 96)
 
 ```
 git status
@@ -30,7 +30,7 @@ git add
 git commit
 ```
 
-```c#
+```C#
 class program
 {
     static void Main(string[] args)
@@ -59,6 +59,8 @@ h3{margin:0;font-size:120%}
 
 | Syntax | Description |
 | ------------|-------------|
+| Header | Title |
+| Paragraph | ![esempio di SVG di svg repo]|
 | Header | Title |
 | Paragraph | ![esempio di SVG di svg repo]|
 
@@ -109,3 +111,4 @@ gitGraph
    commit
    commit
    ```
+
