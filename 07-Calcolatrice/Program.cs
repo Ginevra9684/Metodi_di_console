@@ -1,70 +1,53 @@
-﻿/*
-a  b  c 
-a è un numero
-b è un operatore
-c è un numero
-*/
-/*
-Console.Write("Inserire il minuendo \t");
+﻿﻿//pulizia della console
 
-int minuendo = Convert.ToInt32(Console.ReadLine())!;
+Console.Clear();
 
-Console.Write("Inserire l'operatore \t");
+            //richiesta degli operatori
 
-string operatore = Console.ReadLine()!;
+Console.WriteLine("Enter first number");
 
-switch (operatore)
-{
-    case 1:
-        Console.Write("+");
-        break;                                          
-    case 2:
-        Console.Write("-");
-        break;
-    case 3:
-        Console.Write("*");
-        break;
-    case 4:
-        Console.Write("/");
-        break;
-}
+double firstNumber = Convert.ToDouble(Console.ReadLine());
 
-Console.Write("Inserire il sottraendo \t");
+Console.WriteLine("Enter second number");
 
-int sottraendo = Convert.ToInt32(Console.ReadLine())!;
+double secondNumber = Convert.ToDouble(Console.ReadLine());
 
-Console.Write($"L'operazione è: {minuendo} {operatore} {sottraendo}");
+            //scelta dell'operatore
 
-*/
-            // prompt di scelta dell'operazione
+Console.WriteLine("choose an operator");
 
-Console.Write("Inserire il primo operatore \t");
+string op = Console.ReadLine();
 
-double primoOperatore = Convert.ToDouble(Console.ReadLine())!;
+switch (op)
+    {
+        case "+":
+            double sum = firstNumber + secondNumber;
+            Console.WriteLine($"The result is: {sum}");
+            break;
 
-Console.Write("Inserire il secondo operatore \t");
+        case "-":
+            double sub = firstNumber - secondNumber;
+            Console.WriteLine($"The result is: {sub}");
+            break;
 
-double secondoOperatore = Convert.ToDouble(Console.ReadLine())!;
+        case "*":
+            double product = firstNumber * secondNumber;
+            Console.WriteLine($"The result is: {product}");
+            break;
 
-            // acquisizione della scelta dell'utente
+        case "/":
+            if (secondNumber != 0)
+            {
+                double division = firstNumber / secondNumber;
+                Console.WriteLine($"The result is: {division}");
+            }
+            else
+            {
+                Console.WriteLine("It's impossible to divide by 0, try again!");
+            }
+            break;
 
-Console.Write("Inserire l'operatore \t");
-
-string operatore = Console.ReadLine()!;
-
-switch (operatore)
-{
-    case "+":
-        double somma 
-        Console.WriteLine("");
-        break;                                          
-    case -:
-        Console.WriteLine("-");
-        break;
-    case *:
-        Console.WriteLine("*");
-        break;
-    case /:
-        Console.WriteLine("/");
-        break;
-}
+        default:
+            Console.WriteLine("You didn't enter a valid operator, try again!");
+            break;
+    }
