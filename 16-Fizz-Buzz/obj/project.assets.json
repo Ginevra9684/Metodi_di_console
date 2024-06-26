@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ginevra\\Documents\\Metodi_di_console\\16-Fizz-Buzz\\16-Fiz-Buz.csproj",
-      "projectName": "16-Fiz-Buz",
-      "projectPath": "C:\\Users\\Ginevra\\Documents\\Metodi_di_console\\16-Fizz-Buzz\\16-Fiz-Buz.csproj",
+      "projectUniqueName": "C:\\Users\\Ginevra\\Documents\\Metodi_di_console\\16-Fizz-Buzz\\16-Fizz-Buzz.csproj",
+      "projectName": "16-Fizz-Buzz",
+      "projectPath": "C:\\Users\\Ginevra\\Documents\\Metodi_di_console\\16-Fizz-Buzz\\16-Fizz-Buzz.csproj",
       "packagesPath": "C:\\Users\\Ginevra\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ginevra\\Documents\\Metodi_di_console\\16-Fizz-Buzz\\obj\\",
       "projectStyle": "PackageReference",

@@ -46,4 +46,6 @@ while (number <= 100 )
         Console.WriteLine(number);
         number++;
     }
+    Thread.Sleep(300);
 }
+

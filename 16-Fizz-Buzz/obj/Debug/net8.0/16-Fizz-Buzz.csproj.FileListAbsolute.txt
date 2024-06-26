@@ -1,0 +1,15 @@
+C:\Users\Ginevra\Documents\Metodi_di_console\16-Fizz-Buzz\bin\Debug\net8.0\16-Fizz-Buzz.exe
+C:\Users\Ginevra\Documents\Metodi_di_console\16-Fizz-Buzz\bin\Debug\net8.0\16-Fizz-Buzz.deps.json
+C:\Users\Ginevra\Documents\Metodi_di_console\16-Fizz-Buzz\bin\Debug\net8.0\16-Fizz-Buzz.runtimeconfig.json
+C:\Users\Ginevra\Documents\Metodi_di_console\16-Fizz-Buzz\bin\Debug\net8.0\16-Fizz-Buzz.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\16-Fizz-Buzz\bin\Debug\net8.0\16-Fizz-Buzz.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\16-Fizz-Buzz\obj\Debug\net8.0\16-Fizz-Buzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ginevra\Documents\Metodi_di_console\16-Fizz-Buzz\obj\Debug\net8.0\16-Fizz-Buzz.AssemblyInfoInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\16-Fizz-Buzz\obj\Debug\net8.0\16-Fizz-Buzz.AssemblyInfo.cs
+C:\Users\Ginevra\Documents\Metodi_di_console\16-Fizz-Buzz\obj\Debug\net8.0\16-Fizz-Buzz.csproj.CoreCompileInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\16-Fizz-Buzz\obj\Debug\net8.0\16-Fizz-Buzz.sourcelink.json
+C:\Users\Ginevra\Documents\Metodi_di_console\16-Fizz-Buzz\obj\Debug\net8.0\16-Fizz-Buzz.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\16-Fizz-Buzz\obj\Debug\net8.0\refint\16-Fizz-Buzz.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\16-Fizz-Buzz\obj\Debug\net8.0\16-Fizz-Buzz.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\16-Fizz-Buzz\obj\Debug\net8.0\16-Fizz-Buzz.genruntimeconfig.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\16-Fizz-Buzz\obj\Debug\net8.0\ref\16-Fizz-Buzz.dll
