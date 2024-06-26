@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03-Esercitazioni-tipi-dati-ed-operatori")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd9d4dc5be65b24e4126fed516668932ee4d7774")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95ae1f78992e37846c8fb82b423736c3d76d3ed8")]
 [assembly: System.Reflection.AssemblyProductAttribute("03-Esercitazioni-tipi-dati-ed-operatori")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03-Esercitazioni-tipi-dati-ed-operatori")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ginevra\\Documents\\Metodi_di_console\\02-operatori\\02-operatori.csproj": {}
+    "C:\\Users\\Ginevra\\Desktop\\Metodi_di_console\\Metodi_di_console\\02-operatori\\02-operatori.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ginevra\\Documents\\Metodi_di_console\\02-operatori\\02-operatori.csproj": {
+    "C:\\Users\\Ginevra\\Desktop\\Metodi_di_console\\Metodi_di_console\\02-operatori\\02-operatori.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ginevra\\Documents\\Metodi_di_console\\02-operatori\\02-operatori.csproj",
+        "projectUniqueName": "C:\\Users\\Ginevra\\Desktop\\Metodi_di_console\\Metodi_di_console\\02-operatori\\02-operatori.csproj",
         "projectName": "02-operatori",
-        "projectPath": "C:\\Users\\Ginevra\\Documents\\Metodi_di_console\\02-operatori\\02-operatori.csproj",
+        "projectPath": "C:\\Users\\Ginevra\\Desktop\\Metodi_di_console\\Metodi_di_console\\02-operatori\\02-operatori.csproj",
         "packagesPath": "C:\\Users\\Ginevra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ginevra\\Documents\\Metodi_di_console\\02-operatori\\obj\\",
+        "outputPath": "C:\\Users\\Ginevra\\Desktop\\Metodi_di_console\\Metodi_di_console\\02-operatori\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ginevra\\AppData\\Roaming\\NuGet\\NuGet.Config"

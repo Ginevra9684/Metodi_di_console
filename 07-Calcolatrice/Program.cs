@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿﻿//pulizia della console
+=======
+﻿//pulizia della console
+>>>>>>> a893bc7db2aacf1f9fb8aaf7edb502c0434d8aee
 
 Console.Clear();
 

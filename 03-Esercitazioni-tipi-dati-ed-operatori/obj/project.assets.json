@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ginevra\\Documents\\Metodi_di_console\\03-Esercitazioni-tipi-dati-ed-operatori\\03-Esercitazioni-tipi-dati-ed-operatori.csproj",
+      "projectUniqueName": "c:\\Users\\Ginevra\\Desktop\\Metodi_di_console\\Metodi_di_console\\03-Esercitazioni-tipi-dati-ed-operatori\\03-Esercitazioni-tipi-dati-ed-operatori.csproj",
       "projectName": "03-Esercitazioni-tipi-dati-ed-operatori",
-      "projectPath": "C:\\Users\\Ginevra\\Documents\\Metodi_di_console\\03-Esercitazioni-tipi-dati-ed-operatori\\03-Esercitazioni-tipi-dati-ed-operatori.csproj",
+      "projectPath": "c:\\Users\\Ginevra\\Desktop\\Metodi_di_console\\Metodi_di_console\\03-Esercitazioni-tipi-dati-ed-operatori\\03-Esercitazioni-tipi-dati-ed-operatori.csproj",
       "packagesPath": "C:\\Users\\Ginevra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ginevra\\Documents\\Metodi_di_console\\03-Esercitazioni-tipi-dati-ed-operatori\\obj\\",
+      "outputPath": "c:\\Users\\Ginevra\\Desktop\\Metodi_di_console\\Metodi_di_console\\03-Esercitazioni-tipi-dati-ed-operatori\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ginevra\\AppData\\Roaming\\NuGet\\NuGet.Config"
