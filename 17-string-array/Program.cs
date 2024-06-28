@@ -8,3 +8,5 @@
         {
             Console.WriteLine($"Ciao {nome}");
         }
+
+//nomi.AddRange(new string[] {"Mario", "Luigi"; "Giovanni"});

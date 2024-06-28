@@ -1,0 +1,15 @@
+C:\Users\Ginevra\Documents\Metodi_di_console\22-list-count\bin\Debug\net8.0\22-list-count.exe
+C:\Users\Ginevra\Documents\Metodi_di_console\22-list-count\bin\Debug\net8.0\22-list-count.deps.json
+C:\Users\Ginevra\Documents\Metodi_di_console\22-list-count\bin\Debug\net8.0\22-list-count.runtimeconfig.json
+C:\Users\Ginevra\Documents\Metodi_di_console\22-list-count\bin\Debug\net8.0\22-list-count.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\22-list-count\bin\Debug\net8.0\22-list-count.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\22-list-count\obj\Debug\net8.0\22-list-count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ginevra\Documents\Metodi_di_console\22-list-count\obj\Debug\net8.0\22-list-count.AssemblyInfoInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\22-list-count\obj\Debug\net8.0\22-list-count.AssemblyInfo.cs
+C:\Users\Ginevra\Documents\Metodi_di_console\22-list-count\obj\Debug\net8.0\22-list-count.csproj.CoreCompileInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\22-list-count\obj\Debug\net8.0\22-list-count.sourcelink.json
+C:\Users\Ginevra\Documents\Metodi_di_console\22-list-count\obj\Debug\net8.0\22-list-count.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\22-list-count\obj\Debug\net8.0\refint\22-list-count.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\22-list-count\obj\Debug\net8.0\22-list-count.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\22-list-count\obj\Debug\net8.0\22-list-count.genruntimeconfig.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\22-list-count\obj\Debug\net8.0\ref\22-list-count.dll

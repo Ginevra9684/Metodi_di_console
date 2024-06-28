@@ -1,0 +1,15 @@
+C:\Users\Ginevra\Documents\Metodi_di_console\23-assignmente-strutture-dati\obj\Debug\net8.0\23-assignmente-strutture-dati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ginevra\Documents\Metodi_di_console\23-assignmente-strutture-dati\obj\Debug\net8.0\23-assignmente-strutture-dati.AssemblyInfoInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\23-assignmente-strutture-dati\obj\Debug\net8.0\23-assignmente-strutture-dati.AssemblyInfo.cs
+C:\Users\Ginevra\Documents\Metodi_di_console\23-assignmente-strutture-dati\obj\Debug\net8.0\23-assignmente-strutture-dati.csproj.CoreCompileInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\23-assignmente-strutture-dati\obj\Debug\net8.0\23-assignmente-strutture-dati.sourcelink.json
+C:\Users\Ginevra\Documents\Metodi_di_console\23-assignmente-strutture-dati\bin\Debug\net8.0\23-assignmente-strutture-dati.exe
+C:\Users\Ginevra\Documents\Metodi_di_console\23-assignmente-strutture-dati\bin\Debug\net8.0\23-assignmente-strutture-dati.deps.json
+C:\Users\Ginevra\Documents\Metodi_di_console\23-assignmente-strutture-dati\bin\Debug\net8.0\23-assignmente-strutture-dati.runtimeconfig.json
+C:\Users\Ginevra\Documents\Metodi_di_console\23-assignmente-strutture-dati\bin\Debug\net8.0\23-assignmente-strutture-dati.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\23-assignmente-strutture-dati\bin\Debug\net8.0\23-assignmente-strutture-dati.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\23-assignmente-strutture-dati\obj\Debug\net8.0\23-assignmente-strutture-dati.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\23-assignmente-strutture-dati\obj\Debug\net8.0\refint\23-assignmente-strutture-dati.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\23-assignmente-strutture-dati\obj\Debug\net8.0\23-assignmente-strutture-dati.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\23-assignmente-strutture-dati\obj\Debug\net8.0\23-assignmente-strutture-dati.genruntimeconfig.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\23-assignmente-strutture-dati\obj\Debug\net8.0\ref\23-assignmente-strutture-dati.dll

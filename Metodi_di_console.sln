@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-Fiz-Buz", "16-Fizz-Buzz\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-bim-bum-bam", "15-bim-bum-bam\15-bim-bum-bam.csproj", "{CD1AC8AA-EC5B-4CA2-9655-9A6D66381D5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-list-int", "21-list-int\21-list-int.csproj", "{E2C6B541-E215-42A5-A8F2-60EFF304F6F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{CD1AC8AA-EC5B-4CA2-9655-9A6D66381D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD1AC8AA-EC5B-4CA2-9655-9A6D66381D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD1AC8AA-EC5B-4CA2-9655-9A6D66381D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C6B541-E215-42A5-A8F2-60EFF304F6F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C6B541-E215-42A5-A8F2-60EFF304F6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C6B541-E215-42A5-A8F2-60EFF304F6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C6B541-E215-42A5-A8F2-60EFF304F6F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
