@@ -28,3 +28,10 @@ L'app toglie dalla lista il nome sorteggiato
 L'app sposta il nome sorteggiato in una seconda lista
 L'app visualizza la lista dei nomi rimanenti e dei già sorteggiati
 L'app continua a sorteggiare finchè ci sono nomi nella lista
+
+## VERSIONE 5
+
+Creare una console app che contiene un elenco di nomi dei partecipanti del corso
+L'app permette di inserire un nuovo partecipante
+L'app visializza la lista dei partecipanti
+L'app permette di uscire

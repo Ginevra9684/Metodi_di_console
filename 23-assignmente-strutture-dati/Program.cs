@@ -78,6 +78,8 @@ while(nomi.Count>0)
         }
 }
 */
+
+/*
 //------------------------------------------------------------------------------------------------------------
 //Creiamo una lista di partecipanti e una di sorteggiati
 List<string> partecipanti = new List<string> {"Allison", "Sharon", "Ginevra", "Daniele", "Serghej", "Mattia", "Matteo","Silvano"};
@@ -111,3 +113,27 @@ while(partecipanti.Count>0)
         }
     Thread.Sleep(3000);
 }
+*/
+
+//Creiamo una lista vuota
+List<string> partecipanti = new List<string>();
+
+//La macchina elenca le nostre opzioni
+Console.WriteLine("1. Inserisci partecipante")
+Console.WriteLine("2. visualizza partecipenti")
+Console.WriteLine("3. Esci")
+
+if (Console.ReadLine() = )
+
+    int indice = partecipanti.Count;
+
+    partecipanti.Add(Console.ReadLine());
+
+    foreach (string partecipante in partecipanti)
+        {
+            Console.WriteLine($"I partecipanti sono: {partecipante}");
+        }
+
+
+
+
