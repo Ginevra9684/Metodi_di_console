@@ -1,0 +1,15 @@
+C:\Users\Ginevra\Documents\Metodi_di_console\19-array-lenght\obj\Debug\net8.0\19-array-lenght.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ginevra\Documents\Metodi_di_console\19-array-lenght\obj\Debug\net8.0\19-array-lenght.AssemblyInfoInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\19-array-lenght\obj\Debug\net8.0\19-array-lenght.AssemblyInfo.cs
+C:\Users\Ginevra\Documents\Metodi_di_console\19-array-lenght\obj\Debug\net8.0\19-array-lenght.csproj.CoreCompileInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\19-array-lenght\obj\Debug\net8.0\19-array-lenght.sourcelink.json
+C:\Users\Ginevra\Documents\Metodi_di_console\19-array-lenght\bin\Debug\net8.0\19-array-lenght.exe
+C:\Users\Ginevra\Documents\Metodi_di_console\19-array-lenght\bin\Debug\net8.0\19-array-lenght.deps.json
+C:\Users\Ginevra\Documents\Metodi_di_console\19-array-lenght\bin\Debug\net8.0\19-array-lenght.runtimeconfig.json
+C:\Users\Ginevra\Documents\Metodi_di_console\19-array-lenght\bin\Debug\net8.0\19-array-lenght.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\19-array-lenght\bin\Debug\net8.0\19-array-lenght.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\19-array-lenght\obj\Debug\net8.0\19-array-lenght.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\19-array-lenght\obj\Debug\net8.0\refint\19-array-lenght.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\19-array-lenght\obj\Debug\net8.0\19-array-lenght.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\19-array-lenght\obj\Debug\net8.0\19-array-lenght.genruntimeconfig.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\19-array-lenght\obj\Debug\net8.0\ref\19-array-lenght.dll
