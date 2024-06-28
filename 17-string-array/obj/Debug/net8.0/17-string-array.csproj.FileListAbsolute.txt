@@ -1,0 +1,15 @@
+C:\Users\Ginevra\Documents\Metodi_di_console\17-string-array\bin\Debug\net8.0\17-string-array.exe
+C:\Users\Ginevra\Documents\Metodi_di_console\17-string-array\bin\Debug\net8.0\17-string-array.deps.json
+C:\Users\Ginevra\Documents\Metodi_di_console\17-string-array\bin\Debug\net8.0\17-string-array.runtimeconfig.json
+C:\Users\Ginevra\Documents\Metodi_di_console\17-string-array\bin\Debug\net8.0\17-string-array.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\17-string-array\bin\Debug\net8.0\17-string-array.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\17-string-array\obj\Debug\net8.0\17-string-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ginevra\Documents\Metodi_di_console\17-string-array\obj\Debug\net8.0\17-string-array.AssemblyInfoInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\17-string-array\obj\Debug\net8.0\17-string-array.AssemblyInfo.cs
+C:\Users\Ginevra\Documents\Metodi_di_console\17-string-array\obj\Debug\net8.0\17-string-array.csproj.CoreCompileInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\17-string-array\obj\Debug\net8.0\17-string-array.sourcelink.json
+C:\Users\Ginevra\Documents\Metodi_di_console\17-string-array\obj\Debug\net8.0\17-string-array.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\17-string-array\obj\Debug\net8.0\refint\17-string-array.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\17-string-array\obj\Debug\net8.0\17-string-array.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\17-string-array\obj\Debug\net8.0\17-string-array.genruntimeconfig.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\17-string-array\obj\Debug\net8.0\ref\17-string-array.dll
