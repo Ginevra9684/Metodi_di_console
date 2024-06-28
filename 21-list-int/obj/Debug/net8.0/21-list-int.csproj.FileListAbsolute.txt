@@ -1,0 +1,15 @@
+C:\Users\Ginevra\Documents\Metodi_di_console\21-list-int\bin\Debug\net8.0\21-list-int.exe
+C:\Users\Ginevra\Documents\Metodi_di_console\21-list-int\bin\Debug\net8.0\21-list-int.deps.json
+C:\Users\Ginevra\Documents\Metodi_di_console\21-list-int\bin\Debug\net8.0\21-list-int.runtimeconfig.json
+C:\Users\Ginevra\Documents\Metodi_di_console\21-list-int\bin\Debug\net8.0\21-list-int.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\21-list-int\bin\Debug\net8.0\21-list-int.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\21-list-int\obj\Debug\net8.0\21-list-int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ginevra\Documents\Metodi_di_console\21-list-int\obj\Debug\net8.0\21-list-int.AssemblyInfoInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\21-list-int\obj\Debug\net8.0\21-list-int.AssemblyInfo.cs
+C:\Users\Ginevra\Documents\Metodi_di_console\21-list-int\obj\Debug\net8.0\21-list-int.csproj.CoreCompileInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\21-list-int\obj\Debug\net8.0\21-list-int.sourcelink.json
+C:\Users\Ginevra\Documents\Metodi_di_console\21-list-int\obj\Debug\net8.0\21-list-int.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\21-list-int\obj\Debug\net8.0\refint\21-list-int.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\21-list-int\obj\Debug\net8.0\21-list-int.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\21-list-int\obj\Debug\net8.0\21-list-int.genruntimeconfig.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\21-list-int\obj\Debug\net8.0\ref\21-list-int.dll

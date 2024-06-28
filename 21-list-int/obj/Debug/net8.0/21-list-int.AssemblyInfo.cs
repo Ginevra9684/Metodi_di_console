@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("20-list-string")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("21-list-int")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3ed97634fafc598ce5a2f222783ab09fb21a7cf")]
-[assembly: System.Reflection.AssemblyProductAttribute("20-list-string")]
-[assembly: System.Reflection.AssemblyTitleAttribute("20-list-string")]
+[assembly: System.Reflection.AssemblyProductAttribute("21-list-int")]
+[assembly: System.Reflection.AssemblyTitleAttribute("21-list-int")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
