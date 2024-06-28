@@ -1,0 +1,15 @@
+C:\Users\Ginevra\Documents\Metodi_di_console\18-int-array\obj\Debug\net8.0\18-int-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ginevra\Documents\Metodi_di_console\18-int-array\obj\Debug\net8.0\18-int-array.AssemblyInfoInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\18-int-array\obj\Debug\net8.0\18-int-array.AssemblyInfo.cs
+C:\Users\Ginevra\Documents\Metodi_di_console\18-int-array\obj\Debug\net8.0\18-int-array.csproj.CoreCompileInputs.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\18-int-array\obj\Debug\net8.0\18-int-array.sourcelink.json
+C:\Users\Ginevra\Documents\Metodi_di_console\18-int-array\bin\Debug\net8.0\18-int-array.exe
+C:\Users\Ginevra\Documents\Metodi_di_console\18-int-array\bin\Debug\net8.0\18-int-array.deps.json
+C:\Users\Ginevra\Documents\Metodi_di_console\18-int-array\bin\Debug\net8.0\18-int-array.runtimeconfig.json
+C:\Users\Ginevra\Documents\Metodi_di_console\18-int-array\bin\Debug\net8.0\18-int-array.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\18-int-array\bin\Debug\net8.0\18-int-array.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\18-int-array\obj\Debug\net8.0\18-int-array.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\18-int-array\obj\Debug\net8.0\refint\18-int-array.dll
+C:\Users\Ginevra\Documents\Metodi_di_console\18-int-array\obj\Debug\net8.0\18-int-array.pdb
+C:\Users\Ginevra\Documents\Metodi_di_console\18-int-array\obj\Debug\net8.0\18-int-array.genruntimeconfig.cache
+C:\Users\Ginevra\Documents\Metodi_di_console\18-int-array\obj\Debug\net8.0\ref\18-int-array.dll
